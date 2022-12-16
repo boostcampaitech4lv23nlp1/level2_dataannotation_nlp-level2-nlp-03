@@ -68,3 +68,8 @@
 - **Fleiss' Kappa** : 0.798
 - **Micro F1** : 89.9598
 - **AUPRC** : 91.7236
+
+## License
+본 데이터셋은 [한국어 위키피디아](https://ko.wikipedia.org/)를 사용하여 제작되었으며, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ko) 라이선스 하에 공개되어 있습니다.
+
+<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ko"><img src="https://user-images.githubusercontent.com/113564875/208059449-000fb28b-f126-4988-9439-eb209e7fd628.png" width="150"/></a>
